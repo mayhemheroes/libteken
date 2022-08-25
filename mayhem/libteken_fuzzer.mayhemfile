@@ -1,0 +1,4 @@
+project: PROJECT
+target: libteken_fuzzer
+cmds:
+- cmd: /out/libteken_fuzzer
